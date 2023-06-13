@@ -18,6 +18,12 @@ If no Errors, then Installation is ok
 ## Clone Project
 
 Open cmd and clone https://github.com/AllenElguira16/flashscore
+
+
+```bash
+git clone https://github.com/AllenElguira16/flashscore
+```
+
 Then open it with your editor (VSCode or Sublime)
 
 ## Install nodejs
