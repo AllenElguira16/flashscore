@@ -15,6 +15,11 @@ git help
 
 If no Errors, then Installation is ok
 
+## Clone Project
+
+Open cmd and clone https://github.com/AllenElguira16/flashscore
+Then open it with your editor (VSCode or Sublime)
+
 ## Install nodejs
 
 Go to [NodeJS](https://nodejs.org/en) and download 18.16.0 LTS version
